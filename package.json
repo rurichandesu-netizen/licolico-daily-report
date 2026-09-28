@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@google/genai": "latest",
-    "next": "14.2.3",
+    "next": "14.2.24",
     "react": "^18",
     "react-dom": "^18"
   },
